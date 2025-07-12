@@ -104,7 +104,7 @@ nav {
     height: 90px;
     line-height: 90px;
     background: transparent;
-    backdrop-filter: blur(25px);
+    backdrop-filter: blur(100px);
     padding-inline: 9vw;
     transition: .3s;
     z-index: 100;
